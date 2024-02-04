@@ -1,0 +1,38 @@
+h1 {
+  color: blueviolet;
+  font: 100;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-style: normal;
+  font-size: 350%;
+}
+#guessnumber {
+  width: 55%;
+  font-size: 25px;
+  border-radius: 3%;
+}
+body {
+  background-color: rgb(231, 212, 223);
+}
+button {
+  font-size: 30px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif #190130;
+  color: rgb(99, 161, 141);
+  border-radius: 9%;
+}
+#result {
+  width: fit-content;
+  border-radius: 4%;
+  font-size: 38px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif #000000;
+  background-color: rgb(72, 196, 189);
+}
+#score {
+  width: fit-content;
+  border-radius: 4%;
+  font-size: 38px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif #000000;
+  background-color: rgb(72, 196, 189);
+}
